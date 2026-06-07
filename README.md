@@ -247,3 +247,22 @@
 
 有時候，看見問題的位置，比急著找到答案更重要。
 
+---
+
+© 2026 Maro Huang
+
+This work is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to share and adapt this work for non-commercial purposes, provided appropriate attribution is given and derivative works are distributed under the same license.
+
+Commercial rights reserved.
+
+Full license:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+初版研究草稿　開放研究版本（Open Research Edition） 
+
+本專案可能包含對歷史人物、企業、品牌、產品、文化作品與公共事件之評論與分析。  
+相關商標、角色、作品名稱與著作權，均屬其原權利人所有。  
+引用之目的僅限於評論、研究、教育與合理使用範圍。  
